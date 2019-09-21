@@ -1,23 +1,9 @@
-# 3. semester - week 35
-## Monday
-a
-
+# 3. semester - FLOW 2 WEEK 1
 ## Tuesday
-b
 
-[Link to solution]()
+[Link to solution](https://github.com/Obaydahm/F2W1/tree/master/02_tuesday/f2w1tu)
 
-## Wednesday
-c
+## Wednesday/Thursday
 
-[Link to solution]()
+[Link to solution](https://github.com/Obaydahm/F2W1/tree/master/03%2604-wednesday%26thursday/f2w1wednsdaythursday)
 
-## Thursday
-d
-
-[Link to solution]()
-## Friday
-e
-
-[Link to solution]()
-# F2W1
